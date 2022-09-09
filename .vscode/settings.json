@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "LinkedList.C": "cpp",
+        "Stack_LinkedList.C": "cpp",
+        "stdio.h": "c"
+    }
+}
